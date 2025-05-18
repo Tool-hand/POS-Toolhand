@@ -1,0 +1,1009 @@
+Listado de rutas de carpetas
+El número de serie del volumen es DA32-286A
+C:.
+¦   .gitignore
+¦   estructura.txt
+¦   README.md
+¦   
++---.vs
+¦   ¦   slnx.sqlite
+¦   ¦   VSWorkspaceState.json
+¦   ¦   
+¦   +---C#
+¦   ¦   +---v17
+¦   ¦           .suo
+¦   ¦           
+¦   +---POS-Toolhand
+¦       +---FileContentIndex
+¦       ¦       a2fa2ab1-f13f-4186-a0e3-e03d9539d948.vsidx
+¦       ¦       
+¦       +---v17
+¦               DocumentLayout.backup.json
+¦               DocumentLayout.json
+¦               
++---Class
+¦   +---Mid
+¦   ¦   +---ConsoleWelcomApp
+¦   ¦   ¦   ¦   ConsoleWelcomApp.sln
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---ConsoleWelcomApp
+¦   ¦   ¦       ¦   App.config
+¦   ¦   ¦       ¦   ConsoleWelcomApp.csproj
+¦   ¦   ¦       ¦   Program.cs
+¦   ¦   ¦       ¦   
+¦   ¦   ¦       +---bin
+¦   ¦   ¦       ¦   +---Debug
+¦   ¦   ¦       ¦   +---Release
+¦   ¦   ¦       +---obj
+¦   ¦   ¦       ¦   +---Debug
+¦   ¦   ¦       ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦   ¦   ¦       ¦   ¦       ConsoleWelcomApp.csproj.AssemblyReference.cache
+¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦       ¦   +---Release
+¦   ¦   ¦       ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦   ¦   ¦       ¦           ConsoleWelcomApp.csproj.AssemblyReference.cache
+¦   ¦   ¦       ¦           
+¦   ¦   ¦       +---Properties
+¦   ¦   ¦               AssemblyInfo.cs
+¦   ¦   ¦               
+¦   ¦   +---MidExamTask
+¦   ¦   ¦   ¦   MidExamTask.sln
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---MidExamTask
+¦   ¦   ¦       ¦   App.config
+¦   ¦   ¦       ¦   Employee.cs
+¦   ¦   ¦       ¦   MidExamTask.csproj
+¦   ¦   ¦       ¦   Program.cs
+¦   ¦   ¦       ¦   
+¦   ¦   ¦       +---bin
+¦   ¦   ¦       ¦   +---Debug
+¦   ¦   ¦       ¦   +---Release
+¦   ¦   ¦       +---Employees
+¦   ¦   ¦       ¦       EmployeeInfo.cs
+¦   ¦   ¦       ¦       HRManager.cs
+¦   ¦   ¦       ¦       ITExecutive.cs
+¦   ¦   ¦       ¦       MarketAnalyst.cs
+¦   ¦   ¦       ¦       PartTimer.cs
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---obj
+¦   ¦   ¦       ¦   +---Debug
+¦   ¦   ¦       ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦   ¦   ¦       ¦   ¦       MidExamTask.csproj.AssemblyReference.cache
+¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦       ¦   +---Release
+¦   ¦   ¦       ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦   ¦   ¦       ¦           MidExamTask.csproj.AssemblyReference.cache
+¦   ¦   ¦       ¦           
+¦   ¦   ¦       +---Properties
+¦   ¦   ¦               AssemblyInfo.cs
+¦   ¦   ¦               
+¦   ¦   +---Task1
+¦   ¦   ¦   ¦   Task1.sln
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---Task1
+¦   ¦   ¦       ¦   App.config
+¦   ¦   ¦       ¦   Product.cs
+¦   ¦   ¦       ¦   Program.cs
+¦   ¦   ¦       ¦   Task1.csproj
+¦   ¦   ¦       ¦   
+¦   ¦   ¦       +---bin
+¦   ¦   ¦       ¦   +---Debug
+¦   ¦   ¦       ¦   +---Release
+¦   ¦   ¦       +---obj
+¦   ¦   ¦       ¦   +---Debug
+¦   ¦   ¦       ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦   ¦   ¦       ¦   ¦       Task1.csproj.AssemblyReference.cache
+¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦       ¦   +---Release
+¦   ¦   ¦       ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦   ¦   ¦       ¦           Task1.csproj.AssemblyReference.cache
+¦   ¦   ¦       ¦           
+¦   ¦   ¦       +---Properties
+¦   ¦   ¦               AssemblyInfo.cs
+¦   ¦   ¦               
+¦   ¦   +---Task2
+¦   ¦       ¦   Task2.sln
+¦   ¦       ¦   
+¦   ¦       +---Task2
+¦   ¦           ¦   App.config
+¦   ¦           ¦   JaggedArray.cs
+¦   ¦           ¦   Task2.csproj
+¦   ¦           ¦   
+¦   ¦           +---bin
+¦   ¦           ¦   +---Debug
+¦   ¦           ¦   +---Release
+¦   ¦           +---obj
+¦   ¦           ¦   +---Debug
+¦   ¦           ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦   ¦           ¦   ¦       Task2.csproj.AssemblyReference.cache
+¦   ¦           ¦   ¦       
+¦   ¦           ¦   +---Release
+¦   ¦           ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦   ¦           ¦           Task2.csproj.AssemblyReference.cache
+¦   ¦           ¦           
+¦   ¦           +---Properties
+¦   ¦                   AssemblyInfo.cs
+¦   ¦                   
+¦   +---Practice
+¦       +---Final
+¦       ¦   +---ADODotNet
+¦       ¦   ¦   ¦   ADODotNet.sln
+¦       ¦   ¦   ¦   
+¦       ¦   ¦   +---ADODotNet
+¦       ¦   ¦       ¦   ADODotNet.csproj
+¦       ¦   ¦       ¦   App.config
+¦       ¦   ¦       ¦   DisconnectedArchitecture.cs
+¦       ¦   ¦       ¦   DisconnectedArchitecture.Designer.cs
+¦       ¦   ¦       ¦   DisconnectedArchitecture.resx
+¦       ¦   ¦       ¦   inventoryDBDataSet.Designer.cs
+¦       ¦   ¦       ¦   inventoryDBDataSet.xsc
+¦       ¦   ¦       ¦   inventoryDBDataSet.xsd
+¦       ¦   ¦       ¦   inventoryDBDataSet.xss
+¦       ¦   ¦       ¦   Program.cs
+¦       ¦   ¦       ¦   UnderstandingDataSet.cs
+¦       ¦   ¦       ¦   UnderstandingDataSet.Designer.cs
+¦       ¦   ¦       ¦   UnderstandingDataSet.resx
+¦       ¦   ¦       ¦   
+¦       ¦   ¦       +---bin
+¦       ¦   ¦       ¦   +---Debug
+¦       ¦   ¦       ¦   +---Release
+¦       ¦   ¦       +---obj
+¦       ¦   ¦       ¦   +---Debug
+¦       ¦   ¦       ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦   ¦       ¦   ¦       ADODotNet.csproj.AssemblyReference.cache
+¦       ¦   ¦       ¦   ¦       
+¦       ¦   ¦       ¦   +---Release
+¦       ¦   ¦       ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦   ¦       ¦           ADODotNet.csproj.AssemblyReference.cache
+¦       ¦   ¦       ¦           
+¦       ¦   ¦       +---Properties
+¦       ¦   ¦           ¦   AssemblyInfo.cs
+¦       ¦   ¦           ¦   Resources.Designer.cs
+¦       ¦   ¦           ¦   Resources.resx
+¦       ¦   ¦           ¦   Settings.Designer.cs
+¦       ¦   ¦           ¦   Settings.settings
+¦       ¦   ¦           ¦   
+¦       ¦   ¦           +---DataSources
+¦       ¦   ¦                   ADODotNet.Properties.Resources.datasource
+¦       ¦   ¦                   ADODotNet.Properties.Settings.datasource
+¦       ¦   ¦                   DataBaseConnectivity.datasource
+¦       ¦   ¦                   DisconnectedArchitecture.datasource
+¦       ¦   ¦                   Program.datasource
+¦       ¦   ¦                   
+¦       ¦   +---BasedOnMidExamTask
+¦       ¦   ¦   ¦   BasedOnMidExamTask.sln
+¦       ¦   ¦   ¦   
+¦       ¦   ¦   +---BasedOnMidExamTask
+¦       ¦   ¦       ¦   App.config
+¦       ¦   ¦       ¦   BasedOnMidExamTask.csproj
+¦       ¦   ¦       ¦   Employee.cs
+¦       ¦   ¦       ¦   Program.cs
+¦       ¦   ¦       ¦   Test.cs
+¦       ¦   ¦       ¦   TestSample.cs
+¦       ¦   ¦       ¦   XYZCompany.cs
+¦       ¦   ¦       ¦   
+¦       ¦   ¦       +---bin
+¦       ¦   ¦       ¦   +---Debug
+¦       ¦   ¦       ¦   +---Release
+¦       ¦   ¦       +---Employees
+¦       ¦   ¦       ¦       EmployeeInfo.cs
+¦       ¦   ¦       ¦       HRManager.cs
+¦       ¦   ¦       ¦       ITExecutive.cs
+¦       ¦   ¦       ¦       MarketAnalyst.cs
+¦       ¦   ¦       ¦       PartTimer.cs
+¦       ¦   ¦       ¦       
+¦       ¦   ¦       +---obj
+¦       ¦   ¦       ¦   +---Debug
+¦       ¦   ¦       ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦   ¦       ¦   ¦       BasedOnMidExamTask.csproj.AssemblyReference.cache
+¦       ¦   ¦       ¦   ¦       
+¦       ¦   ¦       ¦   +---Release
+¦       ¦   ¦       ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦   ¦       ¦           BasedOnMidExamTask.csproj.AssemblyReference.cache
+¦       ¦   ¦       ¦           
+¦       ¦   ¦       +---Properties
+¦       ¦   ¦               AssemblyInfo.cs
+¦       ¦   ¦               
+¦       ¦   +---CAppDel
+¦       ¦   ¦   ¦   CAppDel.sln
+¦       ¦   ¦   ¦   
+¦       ¦   ¦   +---CAppDel
+¦       ¦   ¦       ¦   App.config
+¦       ¦   ¦       ¦   CAppDel.csproj
+¦       ¦   ¦       ¦   GenericClass.cs
+¦       ¦   ¦       ¦   Program.cs
+¦       ¦   ¦       ¦   Test.cs
+¦       ¦   ¦       ¦   
+¦       ¦   ¦       +---bin
+¦       ¦   ¦       ¦   +---Debug
+¦       ¦   ¦       ¦   +---Release
+¦       ¦   ¦       +---obj
+¦       ¦   ¦       ¦   +---Debug
+¦       ¦   ¦       ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦   ¦       ¦   ¦       CAppDel.csproj.AssemblyReference.cache
+¦       ¦   ¦       ¦   ¦       
+¦       ¦   ¦       ¦   +---Release
+¦       ¦   ¦       ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦   ¦       ¦           CAppDel.csproj.AssemblyReference.cache
+¦       ¦   ¦       ¦           
+¦       ¦   ¦       +---Properties
+¦       ¦   ¦               AssemblyInfo.cs
+¦       ¦   ¦               
+¦       ¦   +---ConsoleAppInterface
+¦       ¦   ¦   ¦   ConsoleAppInterface.sln
+¦       ¦   ¦   ¦   
+¦       ¦   ¦   +---ConsoleAppInterface
+¦       ¦   ¦       ¦   App.config
+¦       ¦   ¦       ¦   ConsoleAppInterface.csproj
+¦       ¦   ¦       ¦   ISquare.cs
+¦       ¦   ¦       ¦   ITriangle.cs
+¦       ¦   ¦       ¦   Program.cs
+¦       ¦   ¦       ¦   Test.cs
+¦       ¦   ¦       ¦   
+¦       ¦   ¦       +---bin
+¦       ¦   ¦       ¦   +---Debug
+¦       ¦   ¦       ¦   +---Release
+¦       ¦   ¦       +---obj
+¦       ¦   ¦       ¦   +---Debug
+¦       ¦   ¦       ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦   ¦       ¦   ¦       ConsoleAppInterface.csproj.AssemblyReference.cache
+¦       ¦   ¦       ¦   ¦       
+¦       ¦   ¦       ¦   +---Release
+¦       ¦   ¦       ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦   ¦       ¦           ConsoleAppInterface.csproj.AssemblyReference.cache
+¦       ¦   ¦       ¦           
+¦       ¦   ¦       +---Properties
+¦       ¦   ¦               AssemblyInfo.cs
+¦       ¦   ¦               
+¦       ¦   +---OOP2.LayerSample
+¦       ¦   ¦   ¦   OOP2.LayerSample.sln
+¦       ¦   ¦   ¦   
+¦       ¦   ¦   +---OOP2.LayerSample.App
+¦       ¦   ¦   ¦   ¦   App.config
+¦       ¦   ¦   ¦   ¦   DelegateCollection.cs
+¦       ¦   ¦   ¦   ¦   FormAddProduct.cs
+¦       ¦   ¦   ¦   ¦   FormAddProduct.Designer.cs
+¦       ¦   ¦   ¦   ¦   FormAddProduct.resx
+¦       ¦   ¦   ¦   ¦   FormDashboard.cs
+¦       ¦   ¦   ¦   ¦   FormDashboard.Designer.cs
+¦       ¦   ¦   ¦   ¦   FormDashboard.resx
+¦       ¦   ¦   ¦   ¦   OOP2.LayerSample.App.csproj
+¦       ¦   ¦   ¦   ¦   Program.cs
+¦       ¦   ¦   ¦   ¦   
+¦       ¦   ¦   ¦   +---bin
+¦       ¦   ¦   ¦   ¦   +---Debug
+¦       ¦   ¦   ¦   ¦   +---Release
+¦       ¦   ¦   ¦   +---obj
+¦       ¦   ¦   ¦   ¦   +---Debug
+¦       ¦   ¦   ¦   ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦   ¦   ¦   ¦   ¦       OOP2.LayerSample.App.csproj.AssemblyReference.cache
+¦       ¦   ¦   ¦   ¦   ¦       
+¦       ¦   ¦   ¦   ¦   +---Release
+¦       ¦   ¦   ¦   ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦   ¦   ¦   ¦           OOP2.LayerSample.App.csproj.AssemblyReference.cache
+¦       ¦   ¦   ¦   ¦           
+¦       ¦   ¦   ¦   +---Properties
+¦       ¦   ¦   ¦           AssemblyInfo.cs
+¦       ¦   ¦   ¦           Resources.Designer.cs
+¦       ¦   ¦   ¦           Resources.resx
+¦       ¦   ¦   ¦           Settings.Designer.cs
+¦       ¦   ¦   ¦           Settings.settings
+¦       ¦   ¦   ¦           
+¦       ¦   ¦   +---OOP2.LayerSample.Data
+¦       ¦   ¦   ¦   ¦   DataAccess.cs
+¦       ¦   ¦   ¦   ¦   OOP2.LayerSample.Data.csproj
+¦       ¦   ¦   ¦   ¦   
+¦       ¦   ¦   ¦   +---bin
+¦       ¦   ¦   ¦   ¦   +---Debug
+¦       ¦   ¦   ¦   ¦   +---Release
+¦       ¦   ¦   ¦   +---obj
+¦       ¦   ¦   ¦   ¦   +---Debug
+¦       ¦   ¦   ¦   ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦   ¦   ¦   ¦   ¦       OOP2.LayerSample.Data.csproj.AssemblyReference.cache
+¦       ¦   ¦   ¦   ¦   ¦       
+¦       ¦   ¦   ¦   ¦   +---Release
+¦       ¦   ¦   ¦   ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦   ¦   ¦   ¦           OOP2.LayerSample.Data.csproj.AssemblyReference.cache
+¦       ¦   ¦   ¦   ¦           
+¦       ¦   ¦   ¦   +---Properties
+¦       ¦   ¦   ¦           AssemblyInfo.cs
+¦       ¦   ¦   ¦           
+¦       ¦   ¦   +---OOP2.LayerSample.Entity
+¦       ¦   ¦   ¦   ¦   OOP2.LayerSample.Entity.csproj
+¦       ¦   ¦   ¦   ¦   Product.cs
+¦       ¦   ¦   ¦   ¦   
+¦       ¦   ¦   ¦   +---bin
+¦       ¦   ¦   ¦   ¦   +---Debug
+¦       ¦   ¦   ¦   ¦   +---Release
+¦       ¦   ¦   ¦   +---obj
+¦       ¦   ¦   ¦   ¦   +---Debug
+¦       ¦   ¦   ¦   ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦   ¦   ¦   ¦   ¦       OOP2.LayerSample.Entity.csproj.AssemblyReference.cache
+¦       ¦   ¦   ¦   ¦   ¦       
+¦       ¦   ¦   ¦   ¦   +---Release
+¦       ¦   ¦   ¦   ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦   ¦   ¦   ¦           OOP2.LayerSample.Entity.csproj.AssemblyReference.cache
+¦       ¦   ¦   ¦   ¦           
+¦       ¦   ¦   ¦   +---Properties
+¦       ¦   ¦   ¦           AssemblyInfo.cs
+¦       ¦   ¦   ¦           
+¦       ¦   ¦   +---OOP2.LayerSample.Framework
+¦       ¦   ¦   ¦   ¦   OOP2.LayerSample.Framework.csproj
+¦       ¦   ¦   ¦   ¦   Validation.cs
+¦       ¦   ¦   ¦   ¦   
+¦       ¦   ¦   ¦   +---bin
+¦       ¦   ¦   ¦   ¦   +---Debug
+¦       ¦   ¦   ¦   ¦   +---Release
+¦       ¦   ¦   ¦   +---obj
+¦       ¦   ¦   ¦   ¦   +---Debug
+¦       ¦   ¦   ¦   ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦   ¦   ¦   ¦   ¦       OOP2.LayerSample.Framework.csproj.AssemblyReference.cache
+¦       ¦   ¦   ¦   ¦   ¦       
+¦       ¦   ¦   ¦   ¦   +---Release
+¦       ¦   ¦   ¦   ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦   ¦   ¦   ¦           OOP2.LayerSample.Framework.csproj.AssemblyReference.cache
+¦       ¦   ¦   ¦   ¦           
+¦       ¦   ¦   ¦   +---Properties
+¦       ¦   ¦   ¦           AssemblyInfo.cs
+¦       ¦   ¦   ¦           
+¦       ¦   ¦   +---OOP2.LayerSample.Repository
+¦       ¦   ¦       ¦   OOP2.LayerSample.Repository.csproj
+¦       ¦   ¦       ¦   ProductRepository.cs
+¦       ¦   ¦       ¦   
+¦       ¦   ¦       +---bin
+¦       ¦   ¦       ¦   +---Debug
+¦       ¦   ¦       ¦   +---Release
+¦       ¦   ¦       +---obj
+¦       ¦   ¦       ¦   +---Debug
+¦       ¦   ¦       ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦   ¦       ¦   ¦       OOP2.LayerSample.Repository.csproj.AssemblyReference.cache
+¦       ¦   ¦       ¦   ¦       
+¦       ¦   ¦       ¦   +---Release
+¦       ¦   ¦       ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦   ¦       ¦           OOP2.LayerSample.Repository.csproj.AssemblyReference.cache
+¦       ¦   ¦       ¦           
+¦       ¦   ¦       +---Properties
+¦       ¦   ¦               AssemblyInfo.cs
+¦       ¦   ¦               
+¦       ¦   +---PraticeWindowsFormsApp
+¦       ¦   ¦   ¦   PraticeWindowsFormsApp.sln
+¦       ¦   ¦   ¦   
+¦       ¦   ¦   +---PraticeWindowsFormsApp
+¦       ¦   ¦       ¦   App.config
+¦       ¦   ¦       ¦   Form1.cs
+¦       ¦   ¦       ¦   Form1.Designer.cs
+¦       ¦   ¦       ¦   Form1.resx
+¦       ¦   ¦       ¦   Form2.cs
+¦       ¦   ¦       ¦   Form2.Designer.cs
+¦       ¦   ¦       ¦   Form2.resx
+¦       ¦   ¦       ¦   FormAdmin.cs
+¦       ¦   ¦       ¦   FormAdmin.Designer.cs
+¦       ¦   ¦       ¦   FormAdmin.resx
+¦       ¦   ¦       ¦   FormDB.cs
+¦       ¦   ¦       ¦   FormDB.Designer.cs
+¦       ¦   ¦       ¦   FormDB.resx
+¦       ¦   ¦       ¦   FormInfo.cs
+¦       ¦   ¦       ¦   FormInfo.Designer.cs
+¦       ¦   ¦       ¦   FormInfo.resx
+¦       ¦   ¦       ¦   FormLogin.cs
+¦       ¦   ¦       ¦   FormLogin.Designer.cs
+¦       ¦   ¦       ¦   FormLogin.resx
+¦       ¦   ¦       ¦   FormMember.cs
+¦       ¦   ¦       ¦   FormMember.Designer.cs
+¦       ¦   ¦       ¦   FormMember.resx
+¦       ¦   ¦       ¦   PraticeWindowsFormsApp.csproj
+¦       ¦   ¦       ¦   Program.cs
+¦       ¦   ¦       ¦   
+¦       ¦   ¦       +---bin
+¦       ¦   ¦       ¦   +---Debug
+¦       ¦   ¦       ¦   +---Release
+¦       ¦   ¦       +---obj
+¦       ¦   ¦       ¦   +---Debug
+¦       ¦   ¦       ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦   ¦       ¦   ¦       PraticeWindowsFormsApp.csproj.AssemblyReference.cache
+¦       ¦   ¦       ¦   ¦       
+¦       ¦   ¦       ¦   +---Release
+¦       ¦   ¦       ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦   ¦       ¦           PraticeWindowsFormsApp.csproj.AssemblyReference.cache
+¦       ¦   ¦       ¦           
+¦       ¦   ¦       +---Properties
+¦       ¦   ¦               AssemblyInfo.cs
+¦       ¦   ¦               Resources.Designer.cs
+¦       ¦   ¦               Resources.resx
+¦       ¦   ¦               Settings.Designer.cs
+¦       ¦   ¦               Settings.settings
+¦       ¦   ¦               
+¦       ¦   +---SQLInnerJoin
+¦       ¦   ¦   ¦   SQLInnerJoin.sln
+¦       ¦   ¦   ¦   
+¦       ¦   ¦   +---SQLInnerJoin
+¦       ¦   ¦       ¦   App.config
+¦       ¦   ¦       ¦   Form1.cs
+¦       ¦   ¦       ¦   Form1.Designer.cs
+¦       ¦   ¦       ¦   Form1.resx
+¦       ¦   ¦       ¦   Program.cs
+¦       ¦   ¦       ¦   SQLInnerJoin.csproj
+¦       ¦   ¦       ¦   
+¦       ¦   ¦       +---bin
+¦       ¦   ¦       ¦   +---Debug
+¦       ¦   ¦       ¦   +---Release
+¦       ¦   ¦       +---obj
+¦       ¦   ¦       ¦   +---Debug
+¦       ¦   ¦       ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦   ¦       ¦   ¦       SQLInnerJoin.csproj.AssemblyReference.cache
+¦       ¦   ¦       ¦   ¦       
+¦       ¦   ¦       ¦   +---Release
+¦       ¦   ¦       ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦   ¦       ¦           SQLInnerJoin.csproj.AssemblyReference.cache
+¦       ¦   ¦       ¦           
+¦       ¦   ¦       +---Properties
+¦       ¦   ¦               AssemblyInfo.cs
+¦       ¦   ¦               Resources.Designer.cs
+¦       ¦   ¦               Resources.resx
+¦       ¦   ¦               Settings.Designer.cs
+¦       ¦   ¦               Settings.settings
+¦       ¦   ¦               
+¦       ¦   +---WFAStart
+¦       ¦   ¦   ¦   WFAStart.sln
+¦       ¦   ¦   ¦   
+¦       ¦   ¦   +---WFAStart
+¦       ¦   ¦       ¦   App.config
+¦       ¦   ¦       ¦   FormInfo.cs
+¦       ¦   ¦       ¦   FormInfo.Designer.cs
+¦       ¦   ¦       ¦   FormInfo.resx
+¦       ¦   ¦       ¦   FormStart.cs
+¦       ¦   ¦       ¦   FormStart.Designer.cs
+¦       ¦   ¦       ¦   FormStart.resx
+¦       ¦   ¦       ¦   Program.cs
+¦       ¦   ¦       ¦   WFAStart.csproj
+¦       ¦   ¦       ¦   
+¦       ¦   ¦       +---bin
+¦       ¦   ¦       ¦   +---Debug
+¦       ¦   ¦       ¦   +---Release
+¦       ¦   ¦       +---obj
+¦       ¦   ¦       ¦   +---Debug
+¦       ¦   ¦       ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦   ¦       ¦   ¦       WFAStart.csproj.AssemblyReference.cache
+¦       ¦   ¦       ¦   ¦       
+¦       ¦   ¦       ¦   +---Release
+¦       ¦   ¦       ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦   ¦       ¦           WFAStart.csproj.AssemblyReference.cache
+¦       ¦   ¦       ¦           
+¦       ¦   ¦       +---Properties
+¦       ¦   ¦               AssemblyInfo.cs
+¦       ¦   ¦               Resources.Designer.cs
+¦       ¦   ¦               Resources.resx
+¦       ¦   ¦               Settings.Designer.cs
+¦       ¦   ¦               Settings.settings
+¦       ¦   ¦               
+¦       ¦   +---WinFormAppSln
+¦       ¦       ¦   WinFormAppSln.sln
+¦       ¦       ¦   
+¦       ¦       +---WinFormAppSln
+¦       ¦           ¦   App.config
+¦       ¦           ¦   Dashboard.cs
+¦       ¦           ¦   Dashboard.Designer.cs
+¦       ¦           ¦   Dashboard.resx
+¦       ¦           ¦   DataAccess.cs
+¦       ¦           ¦   Program.cs
+¦       ¦           ¦   WinFormAppSln.csproj
+¦       ¦           ¦   
+¦       ¦           +---bin
+¦       ¦           ¦   +---Debug
+¦       ¦           ¦   +---Release
+¦       ¦           +---obj
+¦       ¦           ¦   +---Debug
+¦       ¦           ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦           ¦   ¦       WinFormAppSln.csproj.AssemblyReference.cache
+¦       ¦           ¦   ¦       
+¦       ¦           ¦   +---Release
+¦       ¦           ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦       ¦           ¦           WinFormAppSln.csproj.AssemblyReference.cache
+¦       ¦           ¦           
+¦       ¦           +---Properties
+¦       ¦                   AssemblyInfo.cs
+¦       ¦                   Resources.Designer.cs
+¦       ¦                   Resources.resx
+¦       ¦                   Settings.Designer.cs
+¦       ¦                   Settings.settings
+¦       ¦                   
+¦       +---Mid
+¦           +---Array
+¦           ¦   ¦   Array.sln
+¦           ¦   ¦   
+¦           ¦   +---Array
+¦           ¦       ¦   App.config
+¦           ¦       ¦   Array.csproj
+¦           ¦       ¦   Program.cs
+¦           ¦       ¦   
+¦           ¦       +---bin
+¦           ¦       ¦   +---Debug
+¦           ¦       ¦   +---Release
+¦           ¦       +---obj
+¦           ¦       ¦   +---Debug
+¦           ¦       ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦           ¦       ¦   ¦       Array.csproj.AssemblyReference.cache
+¦           ¦       ¦   ¦       
+¦           ¦       ¦   +---Release
+¦           ¦       ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦           ¦       ¦           Array.csproj.AssemblyReference.cache
+¦           ¦       ¦           
+¦           ¦       +---Properties
+¦           ¦               AssemblyInfo.cs
+¦           ¦               
+¦           +---ConsoleAppFM
+¦           ¦   ¦   ConsoleAppFM.sln
+¦           ¦   ¦   
+¦           ¦   +---ConsoleAppFM
+¦           ¦       ¦   App.config
+¦           ¦       ¦   ConsoleAppFM.csproj
+¦           ¦       ¦   Program.cs
+¦           ¦       ¦   Test.cs
+¦           ¦       ¦   
+¦           ¦       +---bin
+¦           ¦       ¦   +---Debug
+¦           ¦       ¦   +---Release
+¦           ¦       +---obj
+¦           ¦       ¦   +---Debug
+¦           ¦       ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦           ¦       ¦   ¦       ConsoleAppFM.csproj.AssemblyReference.cache
+¦           ¦       ¦   ¦       
+¦           ¦       ¦   +---Release
+¦           ¦       ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦           ¦       ¦           ConsoleAppFM.csproj.AssemblyReference.cache
+¦           ¦       ¦           
+¦           ¦       +---Properties
+¦           ¦               AssemblyInfo.cs
+¦           ¦               
+¦           +---ConsoleAppInhertianceS
+¦           ¦   ¦   ConsoleAppInhertianceS.sln
+¦           ¦   ¦   
+¦           ¦   +---ConsoleAppInhertianceP
+¦           ¦       ¦   App.config
+¦           ¦       ¦   Child.cs
+¦           ¦       ¦   ConsoleAppInhertianceP.csproj
+¦           ¦       ¦   Employee.cs
+¦           ¦       ¦   Parent.cs
+¦           ¦       ¦   Person.cs
+¦           ¦       ¦   Program.cs
+¦           ¦       ¦   Student.cs
+¦           ¦       ¦   
+¦           ¦       +---bin
+¦           ¦       ¦   +---Debug
+¦           ¦       ¦   +---Release
+¦           ¦       +---obj
+¦           ¦       ¦   +---Debug
+¦           ¦       ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦           ¦       ¦   ¦       ConsoleAppInhertianceP.csproj.AssemblyReference.cache
+¦           ¦       ¦   ¦       
+¦           ¦       ¦   +---Release
+¦           ¦       ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦           ¦       ¦           ConsoleAppInhertianceP.csproj.AssemblyReference.cache
+¦           ¦       ¦           
+¦           ¦       +---Properties
+¦           ¦               AssemblyInfo.cs
+¦           ¦               
+¦           +---Constructor
+¦           ¦   ¦   Constructor.sln
+¦           ¦   ¦   
+¦           ¦   +---Constructor
+¦           ¦       ¦   App.config
+¦           ¦       ¦   Constructor.csproj
+¦           ¦       ¦   Program.cs
+¦           ¦       ¦   Student.cs
+¦           ¦       ¦   
+¦           ¦       +---bin
+¦           ¦       ¦   +---Debug
+¦           ¦       ¦   +---Release
+¦           ¦       +---obj
+¦           ¦       ¦   +---Debug
+¦           ¦       ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦           ¦       ¦   ¦       Constructor.csproj.AssemblyReference.cache
+¦           ¦       ¦   ¦       
+¦           ¦       ¦   +---Release
+¦           ¦       ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦           ¦       ¦           Constructor.csproj.AssemblyReference.cache
+¦           ¦       ¦           
+¦           ¦       +---Properties
+¦           ¦               AssemblyInfo.cs
+¦           ¦               
+¦           +---June20
+¦           ¦   ¦   June20.sln
+¦           ¦   ¦   
+¦           ¦   +---June20
+¦           ¦       ¦   App.config
+¦           ¦       ¦   June20.csproj
+¦           ¦       ¦   Program.cs
+¦           ¦       ¦   
+¦           ¦       +---bin
+¦           ¦       ¦   +---Debug
+¦           ¦       ¦   +---Release
+¦           ¦       +---obj
+¦           ¦       ¦   +---Debug
+¦           ¦       ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦           ¦       ¦   ¦       June20.csproj.AssemblyReference.cache
+¦           ¦       ¦   ¦       
+¦           ¦       ¦   +---Release
+¦           ¦       ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦           ¦       ¦           June20.csproj.AssemblyReference.cache
+¦           ¦       ¦           
+¦           ¦       +---Properties
+¦           ¦               AssemblyInfo.cs
+¦           ¦               
+¦           +---Structure
+¦           ¦   ¦   Structure.sln
+¦           ¦   ¦   
+¦           ¦   +---Structure
+¦           ¦       ¦   App.config
+¦           ¦       ¦   Program.cs
+¦           ¦       ¦   Structure.csproj
+¦           ¦       ¦   
+¦           ¦       +---bin
+¦           ¦       ¦   +---Debug
+¦           ¦       ¦   +---Release
+¦           ¦       +---obj
+¦           ¦       ¦   +---Debug
+¦           ¦       ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦           ¦       ¦   ¦       Structure.csproj.AssemblyReference.cache
+¦           ¦       ¦   ¦       
+¦           ¦       ¦   +---Release
+¦           ¦       ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦           ¦       ¦           Structure.csproj.AssemblyReference.cache
+¦           ¦       ¦           
+¦           ¦       +---Properties
+¦           ¦               AssemblyInfo.cs
+¦           ¦               
+¦           +---StructurePractice
+¦               ¦   StructurePractice.sln
+¦               ¦   
+¦               +---StructurePractice
+¦                   ¦   App.config
+¦                   ¦   Program.cs
+¦                   ¦   StructurePractice.csproj
+¦                   ¦   
+¦                   +---bin
+¦                   ¦   +---Debug
+¦                   ¦   +---Release
+¦                   +---obj
+¦                   ¦   +---Debug
+¦                   ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦                   ¦   ¦       StructurePractice.csproj.AssemblyReference.cache
+¦                   ¦   ¦       
+¦                   ¦   +---Release
+¦                   ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+¦                   ¦           StructurePractice.csproj.AssemblyReference.cache
+¦                   ¦           
+¦                   +---Properties
+¦                           AssemblyInfo.cs
+¦                           
++---markdownAssets
+¦   +---Diagram
+¦   ¦       DiagramDB.png
+¦   ¦       
+¦   +---layers
+¦   ¦       AppllicationLayer.png
+¦   ¦       DataAccessLayer.png
+¦   ¦       EntitiyLayer.png
+¦   ¦       FrameworkLayer.png
+¦   ¦       RepositoryLayer.png
+¦   ¦       solutions.png
+¦   ¦       
+¦   +---Screens
+¦           Login.png
+¦           Login2.png
+¦           Snapshot.png
+¦           Snapshot_1.png
+¦           Snapshot_10.png
+¦           Snapshot_11.png
+¦           Snapshot_12.png
+¦           Snapshot_13.png
+¦           Snapshot_14.png
+¦           Snapshot_15.png
+¦           Snapshot_16.png
+¦           Snapshot_18.png
+¦           Snapshot_19.png
+¦           Snapshot_2.png
+¦           Snapshot_20.png
+¦           Snapshot_21.png
+¦           Snapshot_22.png
+¦           Snapshot_3.png
+¦           Snapshot_4.png
+¦           Snapshot_5.png
+¦           Snapshot_6.png
+¦           Snapshot_7.png
+¦           Snapshot_8.png
+¦           Snapshot_9.png
+¦           
++---POS.InventoryManagementSystem
+    ¦   POS.InventoryManagementSystem.sln
+    ¦   
+    +---IMS.Application
+    ¦   ¦   App.config
+    ¦   ¦   Form1.cs
+    ¦   ¦   Form1.Designer.cs
+    ¦   ¦   Form1.resx
+    ¦   ¦   IMS.Application.csproj
+    ¦   ¦   packages.config
+    ¦   ¦   Program.cs
+    ¦   ¦   
+    ¦   +---bin
+    ¦   ¦   +---Debug
+    ¦   ¦   +---Release
+    ¦   ¦   +---x64
+    ¦   ¦       +---Debug
+    ¦   ¦       +---Release
+    ¦   +---obj
+    ¦   ¦   +---Debug
+    ¦   ¦   ¦       .NETFramework,Version=v4.6.1.AssemblyAttributes.cs
+    ¦   ¦   ¦       IMS.Application.csproj.AssemblyReference.cache
+    ¦   ¦   ¦       
+    ¦   ¦   +---Release
+    ¦   ¦   ¦       .NETFramework,Version=v4.6.1.AssemblyAttributes.cs
+    ¦   ¦   ¦       IMS.Application.csproj.AssemblyReference.cache
+    ¦   ¦   ¦       
+    ¦   ¦   +---x64
+    ¦   ¦       +---Debug
+    ¦   ¦       ¦       .NETFramework,Version=v4.6.1.AssemblyAttributes.cs
+    ¦   ¦       ¦       IMS.Application.csproj.AssemblyReference.cache
+    ¦   ¦       ¦       
+    ¦   ¦       +---Release
+    ¦   ¦               .NETFramework,Version=v4.6.1.AssemblyAttributes.cs
+    ¦   ¦               IMS.Application.csproj.AssemblyReference.cache
+    ¦   ¦               
+    ¦   +---Properties
+    ¦   ¦   ¦   AssemblyInfo.cs
+    ¦   ¦   ¦   licenses.licx
+    ¦   ¦   ¦   Resources.Designer.cs
+    ¦   ¦   ¦   Resources.resx
+    ¦   ¦   ¦   Settings.Designer.cs
+    ¦   ¦   ¦   Settings.settings
+    ¦   ¦   ¦   
+    ¦   ¦   +---DataSources
+    ¦   ¦           inventoryDBDataSet.datasource
+    ¦   ¦           
+    ¦   +---Resources
+    ¦   ¦       2179847.jpg
+    ¦   ¦       icons8_add_camera_480px.png
+    ¦   ¦       icons8_available_updates_96px.png
+    ¦   ¦       icons8_categorize_480px.png
+    ¦   ¦       icons8_categorize_480px_1.png
+    ¦   ¦       icons8_clear_search_480px.png
+    ¦   ¦       icons8_clear_search_480px_1.png
+    ¦   ¦       icons8_construction_96px.png
+    ¦   ¦       icons8_construction_96px_1.png
+    ¦   ¦       icons8_dashboard_96px_2.png
+    ¦   ¦       icons8_dashboard_96px_3.png
+    ¦   ¦       icons8_delete_480px.png
+    ¦   ¦       icons8_delete_480px_1.png
+    ¦   ¦       icons8_delete_480px_2.png
+    ¦   ¦       icons8_delete_480px_3.png
+    ¦   ¦       icons8_edit_480px.png
+    ¦   ¦       icons8_edit_480px_1.png
+    ¦   ¦       icons8_edit_image_480px.png
+    ¦   ¦       icons8_edit_image_480px_1.png
+    ¦   ¦       icons8_exit_480px.png
+    ¦   ¦       icons8_exit_480px_1.png
+    ¦   ¦       icons8_image_480px.png
+    ¦   ¦       icons8_image_file_add_96px_2.png
+    ¦   ¦       icons8_image_file_add_96px_3.png
+    ¦   ¦       icons8_image_file_add_96px_31.png
+    ¦   ¦       icons8_no_image_480px_2.png
+    ¦   ¦       icons8_order_history_480px.png
+    ¦   ¦       icons8_order_history_480px_1.png
+    ¦   ¦       icons8_paycheque_480px.png
+    ¦   ¦       icons8_paycheque_480px_2.png
+    ¦   ¦       icons8_people_96px.png
+    ¦   ¦       icons8_people_96px_1.png
+    ¦   ¦       icons8_plus_math_480px.png
+    ¦   ¦       icons8_plus_math_480px_1.png
+    ¦   ¦       icons8_product_96px_3.png
+    ¦   ¦       icons8_product_96px_4.png
+    ¦   ¦       icons8_remove_image_480px.png
+    ¦   ¦       icons8_remove_image_480px_1.png
+    ¦   ¦       icons8_restart_96px.png
+    ¦   ¦       icons8_restart_96px_1.png
+    ¦   ¦       icons8_save_500px.png
+    ¦   ¦       icons8_save_500px_1.png
+    ¦   ¦       icons8_search_480px.png
+    ¦   ¦       icons8_settings_480px.png
+    ¦   ¦       icons8_settings_480px_1.png
+    ¦   ¦       icons8_shopping_cart_96px.png
+    ¦   ¦       icons8_shopping_cart_96px_1.png
+    ¦   ¦       icons8_trash_can_480px.png
+    ¦   ¦       icons8_trash_can_480px_1.png
+    ¦   ¦       icons8_waste_96px_1.png
+    ¦   ¦       icons8_waste_96px_2.png
+    ¦   ¦       
+    ¦   +---UserInterface
+    ¦       ¦   FormLogin.cs
+    ¦       ¦   FormLogin.Designer.cs
+    ¦       ¦   FormLogin.resx
+    ¦       ¦   FormMain.cs
+    ¦       ¦   FormMain.Designer.cs
+    ¦       ¦   FormMain.resx
+    ¦       ¦   FormSetting.cs
+    ¦       ¦   FormSetting.Designer.cs
+    ¦       ¦   FormSetting.resx
+    ¦       ¦   
+    ¦       +---BarCode
+    ¦       ¦       BarCodeMaker.cs
+    ¦       ¦       BarCodeMaker.Designer.cs
+    ¦       ¦       BarCodeMaker.resx
+    ¦       ¦       
+    ¦       +---Category
+    ¦       ¦       FormBrand.cs
+    ¦       ¦       FormBrand.Designer.cs
+    ¦       ¦       FormBrand.resx
+    ¦       ¦       FormMainCategory.cs
+    ¦       ¦       FormMainCategory.Designer.cs
+    ¦       ¦       FormMainCategory.resx
+    ¦       ¦       FormMasterCategory.cs
+    ¦       ¦       FormMasterCategory.Designer.cs
+    ¦       ¦       FormMasterCategory.resx
+    ¦       ¦       FormSecondCategory.cs
+    ¦       ¦       FormSecondCategory.Designer.cs
+    ¦       ¦       FormSecondCategory.resx
+    ¦       ¦       FormThirdCategory.cs
+    ¦       ¦       FormThirdCategory.Designer.cs
+    ¦       ¦       FormThirdCategory.resx
+    ¦       ¦       FormVendor.cs
+    ¦       ¦       FormVendor.Designer.cs
+    ¦       ¦       FormVendor.resx
+    ¦       ¦       
+    ¦       +---Dashboard
+    ¦       ¦       FormDashboard.cs
+    ¦       ¦       FormDashboard.Designer.cs
+    ¦       ¦       FormDashboard.resx
+    ¦       ¦       
+    ¦       +---Expense
+    ¦       ¦       FormExpense.cs
+    ¦       ¦       FormExpense.Designer.cs
+    ¦       ¦       FormExpense.resx
+    ¦       ¦       
+    ¦       +---Orders
+    ¦       ¦       FormMakeSale.cs
+    ¦       ¦       FormMakeSale.Designer.cs
+    ¦       ¦       FormMakeSale.resx
+    ¦       ¦       FormSalesHistory.cs
+    ¦       ¦       FormSalesHistory.Designer.cs
+    ¦       ¦       FormSalesHistory.resx
+    ¦       ¦       InvoiceReport.cs
+    ¦       ¦       InvoiceReport.Designer.cs
+    ¦       ¦       InvoiceReport.resx
+    ¦       ¦       
+    ¦       +---Products
+    ¦       ¦       FormAddProduct.cs
+    ¦       ¦       FormAddProduct.Designer.cs
+    ¦       ¦       FormAddProduct.resx
+    ¦       ¦       
+    ¦       +---Users
+    ¦               FormUser.cs
+    ¦               FormUser.Designer.cs
+    ¦               FormUser.resx
+    ¦               
+    +---IMS.DataAccess
+    ¦   ¦   app.config
+    ¦   ¦   IMS.DataAccess.csproj
+    ¦   ¦   packages.config
+    ¦   ¦   
+    ¦   +---bin
+    ¦   ¦   +---Debug
+    ¦   ¦   +---Release
+    ¦   +---InventoryProducts
+    ¦   ¦       InventoryDBDataAccess.cs
+    ¦   ¦       
+    ¦   +---obj
+    ¦   ¦   +---Debug
+    ¦   ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+    ¦   ¦   ¦       IMS.DataAccess.csproj.AssemblyReference.cache
+    ¦   ¦   ¦       
+    ¦   ¦   +---Release
+    ¦   ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+    ¦   ¦           IMS.DataAccess.csproj.AssemblyReference.cache
+    ¦   ¦           
+    ¦   +---Properties
+    ¦           AssemblyInfo.cs
+    ¦           
+    +---IMS.Entity
+    ¦   ¦   app.config
+    ¦   ¦   IMS.Entity.csproj
+    ¦   ¦   
+    ¦   +---bin
+    ¦   ¦   +---Debug
+    ¦   ¦   +---Release
+    ¦   +---InventoryProducts
+    ¦   ¦   +---BarCodes
+    ¦   ¦   ¦       BarCodes.cs
+    ¦   ¦   ¦       
+    ¦   ¦   +---Categories
+    ¦   ¦   ¦       Brands.cs
+    ¦   ¦   ¦       MainCategories.cs
+    ¦   ¦   ¦       SecondCategories.cs
+    ¦   ¦   ¦       ThirdCategories.cs
+    ¦   ¦   ¦       Vendors.cs
+    ¦   ¦   ¦       
+    ¦   ¦   +---Expense
+    ¦   ¦   ¦       Expenses.cs
+    ¦   ¦   ¦       
+    ¦   ¦   +---Orders
+    ¦   ¦   ¦       Orders.cs
+    ¦   ¦   ¦       OrdersProductsMap.cs
+    ¦   ¦   ¦       
+    ¦   ¦   +---Products
+    ¦   ¦   ¦       Products.cs
+    ¦   ¦   ¦       
+    ¦   ¦   +---Users
+    ¦   ¦           Users.cs
+    ¦   ¦           
+    ¦   +---obj
+    ¦   ¦   +---Debug
+    ¦   ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+    ¦   ¦   ¦       IMS.Entity.csproj.AssemblyReference.cache
+    ¦   ¦   ¦       
+    ¦   ¦   +---Release
+    ¦   ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+    ¦   ¦           IMS.Entity.csproj.AssemblyReference.cache
+    ¦   ¦           
+    ¦   +---Properties
+    ¦           AssemblyInfo.cs
+    ¦           
+    +---IMS.Framework
+    ¦   ¦   app.config
+    ¦   ¦   IMS.Framework.csproj
+    ¦   ¦   Validation.cs
+    ¦   ¦   
+    ¦   +---bin
+    ¦   ¦   +---Debug
+    ¦   ¦   +---Release
+    ¦   +---obj
+    ¦   ¦   +---Debug
+    ¦   ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+    ¦   ¦   ¦       IMS.Framework.csproj.AssemblyReference.cache
+    ¦   ¦   ¦       
+    ¦   ¦   +---Release
+    ¦   ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+    ¦   ¦           IMS.Framework.csproj.AssemblyReference.cache
+    ¦   ¦           
+    ¦   +---Properties
+    ¦           AssemblyInfo.cs
+    ¦           
+    +---IMS.Repository
+        ¦   app.config
+        ¦   IMS.Repository.csproj
+        ¦   
+        +---bin
+        ¦   +---Debug
+        ¦   +---Release
+        +---InventoryProducts
+        ¦   +---Categories
+        ¦   ¦       BrandsRepo.cs
+        ¦   ¦       MainCategoriesRepo.cs
+        ¦   ¦       MasterCategoriesRepo.cs
+        ¦   ¦       SecondCategoriesReop.cs
+        ¦   ¦       ThirdCategoriesRepo.cs
+        ¦   ¦       VendorsRepo.cs
+        ¦   ¦       
+        ¦   +---Expense
+        ¦   ¦       ExpenseRepo.cs
+        ¦   ¦       
+        ¦   +---Orders
+        ¦   ¦       OrdersRepo.cs
+        ¦   ¦       
+        ¦   +---Products
+        ¦   ¦       ProductsRepo.cs
+        ¦   ¦       
+        ¦   +---Users
+        ¦           UsersRepo.cs
+        ¦           
+        +---obj
+        ¦   +---Debug
+        ¦   ¦       .NETFramework,Version=v4.5.AssemblyAttributes.cs
+        ¦   ¦       IMS.Repository.csproj.AssemblyReference.cache
+        ¦   ¦       
+        ¦   +---Release
+        ¦           .NETFramework,Version=v4.5.AssemblyAttributes.cs
+        ¦           IMS.Repository.csproj.AssemblyReference.cache
+        ¦           
+        +---Properties
+                AssemblyInfo.cs
+                
