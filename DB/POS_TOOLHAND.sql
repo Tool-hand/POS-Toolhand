@@ -1,8 +1,37 @@
 -- Script para crear la base de datos y las tablas del sistema de punto de venta (POS) ToolHand.
 --------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-- Paso 1: Crear la Base de Datos si no existe
+--------------------------------------------------------------------------------
+sqlcmd -S localhost\SQLEXPRESS -E --Damos enter y esperamos a que se ejecute el script para entrar al modo interativo (>1), acontinuación copiamos y ejecutamos cada script uno por uno 
+-----------------------------------------------
+IF DB_ID('POS_TOOLHAND') IS NULL
+BEGIN
+    PRINT 'La base de datos [POS_TOOLHAND] no existe. Creándola ahora...';
+    CREATE DATABASE [POS_TOOLHAND];
+    PRINT 'Base de datos [POS_TOOLHAND] creada exitosamente.';
+END
+ELSE
+BEGIN
+    PRINT 'La base de datos [POS_TOOLHAND] ya existe. No se requiere ninguna acción para su creación.';
+END
+GO
+
+--------------------------------------------------------------------------------
+-- Paso 2: Usar la Base de Datos recién creada o existente
+--------------------------------------------------------------------------------
+USE [POS_TOOLHAND];
+GO
+
+PRINT 'Contexto cambiado a la base de datos POS_TOOLHAND.';
+GO
+--------------------------------------------------------------------------------
+
+-- Paso 3: Crear las Tablas
 -- Tabla: Users
 -- Propósito: Almacena información sobre los usuarios del sistema (empleados).
 --------------------------------------------------------------------------------
+
 PRINT 'Creando tabla Users...';
 CREATE TABLE Users (
     Id INT PRIMARY KEY IDENTITY(1,1),       -- Identificador único del usuario (autoincremental)
